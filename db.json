@@ -10,6 +10,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+	"id": 4213421,
+    "firstName": "Guilherme",
+	"lastName": "Kawano",
+	"email": "gkawano@2mundos.net",
+	"score": 9999,
+	"userType": 0,
   }
 }
