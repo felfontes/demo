@@ -17,6 +17,12 @@
 	"firstName": "Guilherme",
 	"lastName": "Kawano",
 	"email": "gkawano@2mundos.net",
-	"score": 9999
+	"score": 9999,
+	"country": "Brazil",
+	"birthday": "04/02/1988",
+	"art": "Music",
+	"usertype": 0,
+	"facebookAccount": "gkawano@2mundos",
+	"twitterAccount": "gkawano@2mundos"
   }
 }
