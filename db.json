@@ -1,28 +1,56 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-	{ "id": 4, "title": "Post 4" },
-	{ "id": 5, "title": "Post 5" },
-	{ "id": 6, "title": "Post 6" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-	{ "id": 3, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-	"id": 4213421,
-	"firstName": "Guilherme",
-	"lastName": "Kawano",
-	"email": "gkawano@2mundos.net",
-	"score": 9999,
-	"country": "Brazil",
-	"birthday": "04/02/1988",
-	"art": "Music",
-	"usertype": 0,
-	"facebookAccount": "gkawano@2mundos",
-	"twitterAccount": "gkawano@2mundos"
-  }
+	"enumerate": {
+		"data": {
+			"resource_enumerate": "api\/resource\/enumerate",
+			"user_create": "api\/users\/create",
+			"user_login": "api\/users\/login",
+			"user_get": "api\/users\/get",
+			"user_update": "api\/users\/update",
+			"stream_start": "api\/stream\/start",
+			"stream_close": "api\/stream\/close",
+			"stream_join": "api\/stream\/join",
+			"stream_create_bit": "api\/stream\/createBit",
+			"stream_set_stage": "api\/stream\/setStage",
+			"stage_search": "api\/stage\/search",
+			"stage_get_info": "api\/stage\/getInfo",
+			"stage_get_streamers": "api\/stage\/getStreamers",
+			"artist_create_stage": "api\/artist\/createStage",
+			"artist_close_stage": "api\/artist\/closeStage",
+			"artist_get_active_stage": "api\/artist\/getActiveStage",
+			"artist_get_most_popular": "api\/artist\/getMostPopular",
+			"artist_get_info": "api\/artist\/getInfo",
+			"wallet_get_info": "api\/wallet\/getInfo",
+			"art_type_enumerate": "api\/artTypes\/enumerate"
+		},
+		"error": null
+	},
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 3,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"id": 4213421,
+		"firstName": "Guilherme",
+		"lastName": "Kawano",
+		"email": "gkawano@2mundos.net",
+		"score": 9999,
+		"country": "Brazil",
+		"birthday": "04/02/1988",
+		"art": "Music",
+		"usertype": 0,
+		"facebookAccount": "gkawano@2mundos",
+		"twitterAccount": "gkawano@2mundos"
+	}
 }
