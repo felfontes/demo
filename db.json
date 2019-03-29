@@ -24,22 +24,25 @@
 		},
 		"error": null
 	},
-	"comments": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
+	"login": {
+		"data": {
+			"user_info": {
+				"id": 2,
+				"name": "2mundos Artbit",
+				"email": "artbit@2mundos.com",
+				"country": "BR",
+				"birthday": "1989-02-10",
+				"user_type": "ARTIST",
+				"description": null,
+				"image_url": null,
+				"art_type": [
+					"MUSIC"
+				]
+			},
+			"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFydGJpdEAybXVuZG9zLmNvbSIsImF1dGhfaWQiOjQsImlzcyI6Imh0dHA6XC9cL2FydGJpdC1pZC5sb2NhbCIsImlhdCI6MTU1Mzg2MzI1MywiZXhwIjoxNTUzOTQ5NjUzfQ.P_0FMpxnFSG7fGzu-9tP-zVnfB75x3_k-gs0l2TauxE"
 		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
+		"error": null
 		},
-		{
-			"id": 3,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
 	"profile": {
 		"id": 4213421,
 		"firstName": "Guilherme",
