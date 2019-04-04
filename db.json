@@ -30,14 +30,18 @@
 				"id": 2,
 				"name": "2mundos Artbit",
 				"email": "artbit@2mundos.com",
-				"country": "BR",
+				"country": "Brazil",
 				"birthday": "1989-02-10",
 				"user_type": "ARTIST",
-				"description": "Loren Ipsum",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium urna quis ante blandit, quis convallis nibh tristique. Suspendisse aliquet tortor quis condimentum pretium. Aliquam non urna nec massa interdum molestie at laoreet erat. Morbi sapien sem, commodo et risus sit amet, accumsan sagittis mi.",
+				"artbit_points": 42394,
 				"image_url": "https://blog.discmakers.com/wp-content/uploads/2016/05/Organic-Artist-Social.jpg",
 				"art_type": [
 					"MUSIC"
-				]
+				],
+				"twitter_account_id": "artbit@2mundos.com",
+				"instagram_account_id": "artbit@2mundos.com",
+				"facebook_account_id": "artbit@2mundos.com"
 			},
 			"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFydGJpdEAybXVuZG9zLmNvbSIsImF1dGhfaWQiOjQsImlzcyI6Imh0dHA6XC9cL2FydGJpdC1pZC5sb2NhbCIsImlhdCI6MTU1Mzg2MzI1MywiZXhwIjoxNTUzOTQ5NjUzfQ.P_0FMpxnFSG7fGzu-9tP-zVnfB75x3_k-gs0l2TauxE"
 		},
