@@ -7,8 +7,7 @@
 		"error": null
 	},
 	"login": {
-		"data": {
-			"user_info": {
+		"user_info": {
 				"id": 2,
 				"name": "Flutter Skeleton",
 				"email": "skeleton@2mundos.com",
@@ -16,9 +15,8 @@
 				"birthday": "1989-02-10",
 				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium urna quis ante blandit, quis convallis nibh tristique. Suspendisse aliquet tortor quis condimentum pretium. Aliquam non urna nec massa interdum molestie at laoreet erat. Morbi sapien sem, commodo et risus sit amet, accumsan sagittis mi.",
 				"image_url": "https://blog.discmakers.com/wp-content/uploads/2016/05/Organic-Artist-Social.jpg"
-			},
-			"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFydGJpdEAybXVuZG9zLmNvbSIsImF1dGhfaWQiOjQsImlzcyI6Imh0dHA6XC9cL2FydGJpdC1pZC5sb2NhbCIsImlhdCI6MTU1Mzg2MzI1MywiZXhwIjoxNTUzOTQ5NjUzfQ.P_0FMpxnFSG7fGzu-9tP-zVnfB75x3_k-gs0l2TauxE"
 		},
+		"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFydGJpdEAybXVuZG9zLmNvbSIsImF1dGhfaWQiOjQsImlzcyI6Imh0dHA6XC9cL2FydGJpdC1pZC5sb2NhbCIsImlhdCI6MTU1Mzg2MzI1MywiZXhwIjoxNTUzOTQ5NjUzfQ.P_0FMpxnFSG7fGzu-9tP-zVnfB75x3_k-gs0l2TauxE",
 		"error": null
 		},
 	"profile": {
