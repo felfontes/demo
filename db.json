@@ -2,7 +2,8 @@
 	"enumerate": {
 		"data": {
 			"resource_enumerate": "enumerate",
-			"user_login":  "login"
+			"user_login": "login",
+			"images": "images"
 		},
 		"error": null
 	},
