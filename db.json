@@ -39,5 +39,27 @@
 		"https://live.staticflickr.com/65535/48132284231_c5828de00d_m.jpg",
 		"https://live.staticflickr.com/65535/48132350622_31ddbdc62a_m.jpg"
 		]
+	},
+	"locale": {
+	  "en": {
+		"LOGIN": "Login",
+		"LOGIN_PLACEHOLDER": "you@example.com",
+		"PASSWORD": "Password",
+		"FORGOT_PASSWORD": "Forgot Password",
+		"SKIP": "Skip",
+		"SIGN_IN": "Sign In",
+		"CREATE_ACCOUNT": "Create Account",
+		"SIGNING_IN": "Signing-In"
+	  },
+	  "pt-br": {
+		"LOGIN": "Usuário",
+		"LOGIN_PLACEHOLDER": "voce@exemplo.com",
+		"PASSWORD": "Senha",
+		"FORGOT_PASSWORD": "Esqueci a senha",
+		"SKIP": "Pular",
+		"SIGN_IN": "Entrar",
+		"CREATE_ACCOUNT": "Criar Conta",
+		"SIGNING_IN": "Entrando"
+	  }
 	}
 }
