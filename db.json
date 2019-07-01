@@ -51,7 +51,7 @@
 		"CREATE_ACCOUNT": "Create Account",
 		"SIGNING_IN": "Signing-In"
 	  },
-	  "pt-br": {
+	  "pt_br": {
 		"LOGIN": "Usuário",
 		"LOGIN_PLACEHOLDER": "voce@exemplo.com",
 		"PASSWORD": "Senha",
