@@ -3,7 +3,8 @@
 		"data": {
 			"resource_enumerate": "enumerate",
 			"user_login": "login",
-			"images": "images"
+			"images": "images",
+			"locale": "locale"
 		},
 		"error": null
 	},
