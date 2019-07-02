@@ -42,25 +42,53 @@
 		]
 	},
 	"locale": {
-	  "en": {
-		"LOGIN": "Login",
-		"LOGIN_PLACEHOLDER": "you@example.com",
-		"PASSWORD": "Password",
-		"FORGOT_PASSWORD": "Forgot Password",
-		"SKIP": "Skip",
-		"SIGN_IN": "Sign In",
-		"CREATE_ACCOUNT": "Create Account",
-		"SIGNING_IN": "Signing-In"
-	  },
-	  "pt_br": {
-		"LOGIN": "Usuário",
-		"LOGIN_PLACEHOLDER": "voce@exemplo.com",
-		"PASSWORD": "Senha",
-		"FORGOT_PASSWORD": "Esqueci a senha",
-		"SKIP": "Pular",
-		"SIGN_IN": "Entrar",
-		"CREATE_ACCOUNT": "Criar Conta",
-		"SIGNING_IN": "Entrando"
-	  }
+		"en": {
+			"LOGIN": "Login",
+			"EMAIL_PLACEHOLDER": "you@example.com",
+			"PASSWORD": "Password",
+			"FORGOT_PASSWORD": "Forgot Password",
+			"SKIP": "Skip",
+			"SIGN_IN": "Sign In",
+			"CREATE_ACCOUNT": "Create Account",
+			"SIGNING_IN": "Signing-In",
+			"SIGN_UP": "Sign Up",
+			"EMAIL": "E-mail",
+			"FULL_NAME": "Full Name",
+			"FULL_NAME_PLACEHOLDER": "John Doe",
+			"PASSWORD_PLACEHOLDER": "Type your password",
+			"NEXT": "Next",
+			"VALIDATING": "Validating",
+			"EMAIL_ALREADY_USED": "This email is already being used. Please provide a different one.",
+			"SIGNING_UP": "Signing-Up",
+			"ENTER_VALID_EMAIL": "Enter a valid Email",
+			"PASSWORD_MIN_CHAR_RULE": "Password must have at least 6 characters",
+			"FULL_NAME_RULE": "Full Name must have at least your first and last name",
+			"COUNTRY_RULE": "A Country must be selected",
+			"BIRTHDAY_RULE": "A valid birthday date must be selected"
+		},
+		"pt_br": {
+			"LOGIN": "Usuário",
+			"EMAIL_PLACEHOLDER": "voce@exemplo.com",
+			"PASSWORD": "Senha",
+			"FORGOT_PASSWORD": "Esqueci a senha",
+			"SKIP": "Pular",
+			"SIGN_IN": "Entrar",
+			"CREATE_ACCOUNT": "Criar Conta",
+			"SIGNING_IN": "Entrando",
+			"SIGN_UP": "Cadastrar",
+			"EMAIL": "E-mail",
+			"FULL_NAME": "Nome Completo",
+			"FULL_NAME_PLACEHOLDER": "João Ninguém",
+			"PASSWORD_PLACEHOLDER": "Escreva sua senha",
+			"NEXT": "Avançar",
+			"VALIDATING": "Validando",
+			"EMAIL_ALREADY_USED": "Esse e-mail já está sendo utilizado. Por favor forneça um diferente.",
+			"SIGNING_UP": "Cadastrando",
+			"ENTER_VALID_EMAIL": "Insira um e-mail válido",
+			"PASSWORD_MIN_CHAR_RULE": "Senha deve ter ao menos 6 caracteres",
+			"FULL_NAME_RULE": "Nome Completo deve ter ao menos seu primeiro e último nome",
+			"COUNTRY_RULE": "Um país deve ser selecionado",
+			"BIRTHDAY_RULE": "Uma data de nascimento válida deve ser selecionada"
+		}
 	}
 }
