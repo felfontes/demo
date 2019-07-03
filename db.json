@@ -73,7 +73,15 @@
 			"PASSWORD_MIN_CHAR_RULE": "Password must have at least 6 characters",
 			"FULL_NAME_RULE": "Full Name must have at least your first and last name",
 			"COUNTRY_RULE": "A Country must be selected",
-			"BIRTHDAY_RULE": "A valid birthday date must be selected"
+			"BIRTHDAY_RULE": "A valid birthday date must be selected",
+			"HOME": "Home",
+			"CONTENT": "Content",
+			"MAP": "Map",
+			"PROFILE": "Profile",
+			"FETCHING_USER": "Fetching user",
+			"NAME": "Name",
+			"TAKE_SHOT": "Take a shot",
+			"IMPORT_PHOTO": "Import a photo"
 		},
 		"pt_br": {
 			"LOGIN": "Usuário",
@@ -106,7 +114,15 @@
 			"PASSWORD_MIN_CHAR_RULE": "Senha deve ter ao menos 6 caracteres",
 			"FULL_NAME_RULE": "Nome Completo deve ter ao menos seu primeiro e último nome",
 			"COUNTRY_RULE": "Um país deve ser selecionado",
-			"BIRTHDAY_RULE": "Uma data de nascimento válida deve ser selecionada"
+			"BIRTHDAY_RULE": "Uma data de nascimento válida deve ser selecionada",
+			"HOME": "Início",
+			"CONTENT": "Conteúdo",
+			"MAP": "Mapa",
+			"PROFILE": "Perfil",
+			"FETCHING_USER": "Buscando usuário",
+			"NAME": "Nome",
+			"TAKE_SHOT": "Tirar uma foto",
+			"IMPORT_PHOTO": "Importar uma foto"
 		}
 	}
 }
