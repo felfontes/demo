@@ -81,7 +81,8 @@
 			"FETCHING_USER": "Fetching user",
 			"NAME": "Name",
 			"TAKE_SHOT": "Take a shot",
-			"IMPORT_PHOTO": "Import a photo"
+			"IMPORT_PHOTO": "Import a photo",
+			"CHECK_CONNECTION": "Please check your internet connection."
 		},
 		"pt_br": {
 			"LOGIN": "Usuário",
@@ -122,7 +123,8 @@
 			"FETCHING_USER": "Buscando usuário",
 			"NAME": "Nome",
 			"TAKE_SHOT": "Tirar uma foto",
-			"IMPORT_PHOTO": "Importar uma foto"
+			"IMPORT_PHOTO": "Importar uma foto",
+			"CHECK_CONNECTION": "Por favor verifique sua conexão com a internet."
 		}
 	}
 }
