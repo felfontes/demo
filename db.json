@@ -82,7 +82,8 @@
 			"NAME": "Name",
 			"TAKE_SHOT": "Take a shot",
 			"IMPORT_PHOTO": "Import a photo",
-			"CHECK_CONNECTION": "Please check your internet connection."
+			"CHECK_CONNECTION": "Please check your internet connection.",
+			"PERMISSION_DENIED": "The access to the resource was denied. Please allow it by going to the app configurations in your device's Settings."
 		},
 		"pt_br": {
 			"LOGIN": "Usuário",
@@ -124,7 +125,8 @@
 			"NAME": "Nome",
 			"TAKE_SHOT": "Tirar uma foto",
 			"IMPORT_PHOTO": "Importar uma foto",
-			"CHECK_CONNECTION": "Por favor verifique sua conexão com a internet."
+			"CHECK_CONNECTION": "Por favor verifique sua conexão com a internet.",
+			"PERMISSION_DENIED": "O acesso ao recurso foi negado. Por favor habilite-o para esse aplicativo nas Configurações do seu aparelho."
 		}
 	}
 }
